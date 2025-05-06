@@ -1,6 +1,6 @@
 # love2d-ping-pong
 
-![Game image](https://github.com/zhuravkovigor/love2d-ping-pong-game/game-image.png)
+![Game image](./cover.png)
 
 ## Description
 A simple ping pong game implemented in Love2D.
